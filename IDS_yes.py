@@ -58,7 +58,7 @@ graph  = {
 }
 
 
-# ## Iterative-Deepeninf Search (IDS) with visit list (Yes)
+# ## Iterative-Deepening Search (IDS) with visit list (Yes)
 
 
 import time
